@@ -1,2 +1,5 @@
 Laptop@6@1500.6@Una laptop marca lenovo@./Upload/Laptop.jpg
 Lavadora@3@2500@Lavadora marca LG@./Upload/Lavadora.jpg
+Tablet@25@500@Tablet samsung@./Upload/Tablet.jpg
+Ventilador@1@150.6@Un ventilador marca lg@./Upload/Ventilador.jpg
+Telefono@12@600@Un telefono@./Upload/default2.jpg
